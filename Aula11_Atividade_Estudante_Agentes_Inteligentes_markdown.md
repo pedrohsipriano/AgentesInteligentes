@@ -213,4 +213,3 @@ stateDiagram-v2
 ## Referências
 
 - RUSSELL, Stuart; NORVIG, Peter. Agentes inteligentes. In: **Inteligência artificial**. 3. ed. Rio de Janeiro: Elsevier, 2013. cap. 2.
-- UDF. **Instruções gerais da atividade** — Linguagens Formais e Autômatos. Profa. Kadidja Valéria, 20 out. 2026.
